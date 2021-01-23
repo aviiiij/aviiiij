@@ -1,35 +1,57 @@
 
-## Heeeyyy, AJ here~ 👩🏻 
-*I like to define myself as an artistic person who is very passionate about something once she gets to it. I am a Computer Science student in Mumbai. Oh and I like to add extra e's and i's sometimes when i am excited :>*
+## Heeeyyy, AJ here 👩🏻 ~ 
+*I am a Computer Science student in Mumbai. I like to define myself as an artistic person who is very passionate about something once she gets to it. Oh and I like to add extra alphabets sometimes to words when i am excitedddd :>*
 
-![](https://cdn.lowgif.com/small/93458983a2996042-anime-girl-shy-gif-google-search-anime-pinterest.gif)
+<p align="center">
+  <img src="https://64.media.tumblr.com/d5e83300a9895dea1fcd013517a6782f/tumblr_inline_oktus45WjB1sppvj9_500.gifv" alt="animated" width='100%' />
+</p>
 
-|T|h|i|n|g|s||I||💕|:| |
+<div align='center'>
+
+|T|h|i|n|g|s||I||💕| |:| 
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | | | | | `F` |`A`|`N`|`T`|`A`|`S`|`Y`| |
-| | | | |`I`| | | | |`I`| | |
-| | | | |`C`| | | | |`N`| | |
-| | | | |`T`| | | | |`G`| | |
-| |`M`|`U`|`S`|`I`|`C`| | | |`I`| | |
-| | | | |`O`| | | | |`N`| | |
-| |`T`| | |`N`| | | | |`G`| | |
-| |`A`| | | | | | |`L`| | | |
-| |`L`| | | |`C`|`A`|`K`|`E`|`S`| | |
-| |`K`| | | | | | |`A`| | | |
+| | | | |`I`| | | | |`I`| |`S`|
+| | | | |`C`|`A`|`T`|`S`| |`N`| |`K`|
+| | | | |`T`| | | | |`G`| |`E`|
+| |`M`|`U`|`S`|`I`|`C`| | | |`I`| |`T`|
+| | | | |`O`| | | | |`N`| |`C`|
+| |`T`| | |`N`| | | | |`G`| |`H`|
+| |`A`| | | | | | |`L`| | |`I`|
+| |`L`| | | |`C`|`A`|`K`|`E`|`S`| |`N`|
+| |`K`| | | | | | |`A`| | |`G`|
 | |`I`| | | | | | |`R`| | | | 
 |`I`|`N`|`S`|`T`|`R`|`U`|`M`|`E`|`N`|`T`|`A`|`L`|
 | |`G`| | | | | | | | | | | 
+
+</div>
 
 <hr>
 
 ## Tech Stack and Frameworks
 
 
+<p align="center">
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+ </p>
 
 <hr>
 
 <p align="center">
-    <i> If you only shint light on your flaws, all your perfects will dim! - CH </i>
+    <i> If you only shine light on your flaws, all your perfects will dim! - CH </i>
     <br><br>
     <a target="_blank" href="mailto:avi.j@somaiya.edu"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
     <a target="_blank" href="https://www.linkedin.com/in/aviiii/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
