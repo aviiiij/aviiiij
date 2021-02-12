@@ -1,6 +1,6 @@
 
 ## Heeeyyy, AJ here 👩🏻 ~ 
-*I am a Computer Science student in Mumbai. I like to define myself as an artistic person who is very passionate about something once she gets to it. Oh and I like to add extra alphabets sometimes to words when i am excitedddd :>*
+*I am a Computer Science student from Mumbai. I like to define myself as an artistic person who is very passionate about something once she gets to it. Oh and I like to add extra alphabets sometimes to words when i am excitedddd :>*
 
 <p align="center">
 <img src = "https://arthifis.files.wordpress.com/2018/03/waving-anime.gif?w=499" >
