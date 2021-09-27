@@ -1,6 +1,6 @@
 
 ## Heeeyyy, AJ here 👩🏻 ~ 
-*I am a Computer Science student from Mumbai. I like to define myself as an artistic person who is very passionate about something once she gets to it.I love reading, singing, playing the piano and sketching. Oh and I like to add extra alphabets sometimes to words when i am excitedddd :>*
+*I am a Graduate Student in Computer Science from University of Florida. I like to define myself as an artistic person who is very passionate about something once she gets to it.I love reading, singing, playing the piano and sketching. Oh and I like to add extra alphabets sometimes to words when i am excitedddd :>*
 
 <p align="center">
 <img src = "https://arthifis.files.wordpress.com/2018/03/waving-anime.gif?w=499" >
